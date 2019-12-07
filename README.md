@@ -16,4 +16,4 @@ OKHttp，Gson
 
 ## 效果：
 
-![1575620773871[1]](C:\Users\xu\AppData\Local\Microsoft\Windows\INetCache\IE\ZK0KWEYT\1575620773871[1].gif)
+![1575620773871[1]](https://raw.githubusercontent.com/31702160323/wether/master/1575620773871%5B1%5D.gif)
